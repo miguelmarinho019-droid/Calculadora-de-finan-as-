@@ -3,7 +3,7 @@
 
 Um aplicativo web simples e interativo para auxiliar no controle financeiro pessoal, calculando saldos finais e recomendando porcentagens para reserva de emergência.
 
-**[Clique aqui para testar o aplicativo no celular/navegador](https://SEU-USUARIO-CALCULADORA.streamlit.app)**
+**[Clique aqui para testar o aplicativo no celular/navegador](https://calculatudo.streamlit.app/)**
 
 ---
 
