@@ -21,7 +21,3 @@ Um aplicativo web simples e interativo para auxiliar no controle financeiro pess
 3. É apresentada uma sugestão automática de 20% do valor restante para reserva de emergência e 80% para uso livre.
 
 ---
-
-## 📱 Visualização do Aplicativo
-
-> *Dica: Você pode tirar um print da tela do seu app no celular ou computador, salvar a imagem no repositório do GitHub e colar o link da imagem aqui!*
